@@ -20,7 +20,7 @@ I design spaces by profession and build software on the side purely for my own u
     <td valign="top" width="420">
       <img src="./Active.svg" width="400" height="22" /><br/><br/>
       <strong><a href="https://github.com/EgeGurkan/ByteWrapper">ByteWrapper</a></strong><br/>
-      Lightweight utility to bundle scripts, files, and installers into self-contained <code>.exe</code> packages.<br/><br/>
+      Lightweight utility to bundle scripts, files, and installers into self-contained packages.<br/><br/>
       <code>Python</code>
     </td>
   </tr>
@@ -28,13 +28,13 @@ I design spaces by profession and build software on the side purely for my own u
     <td valign="top" width="420">
       <img src="./Active.svg" width="400" height="22" /><br/><br/>
       <strong><a href="https://github.com/EgeGurkan/ByteAI">ByteAI</a></strong><br/>
-      Short description for ByteAI.<br/><br/>
+      Private AI Workspace.<br/><br/>
       <code>HTML</code>
     </td>
     <td valign="top" width="420">
       <img src="./Active.svg" width="400" height="22" /><br/><br/>
       <strong><a href="https://github.com/EgeGurkan/ByteOffice">ByteOffice</a></strong><br/>
-      Short description for ByteOffice.<br/><br/>
+      Unofficial web based ArtCraft Launcher for personal use.<br/><br/>
       <code>HTML</code>
     </td>
   </tr>
@@ -42,7 +42,7 @@ I design spaces by profession and build software on the side purely for my own u
     <td valign="top" width="420">
       <img src="./Done.svg" width="400" height="22" /><br/><br/>
       <strong><a href="https://github.com/EgeGurkan/ByteGames">ByteGames</a></strong><br/>
-      Short description for ByteGames.<br/><br/>
+      All in one arcade mini games hub.<br/><br/>
       <code>HTML</code>
     </td>
     <td valign="top" width="420">
@@ -62,7 +62,7 @@ I design spaces by profession and build software on the side purely for my own u
     <td valign="top" width="420">
       <img src="./Frozen.svg" width="400" height="22" /><br/><br/>
       <strong><a href="https://github.com/EgeGurkan/EV">EV+</a></strong><br/>
-      Mobile app for EV owners to track real-time charging unit prices and campaigns.<br/><br/>
+      Track real-time charging unit prices and campaigns.<br/><br/>
       <code>Kotlin</code>
     </td>
   </tr>
@@ -70,13 +70,13 @@ I design spaces by profession and build software on the side purely for my own u
     <td valign="top" width="420">
       <img src="./Archived.svg" width="400" height="22" /><br/><br/>
       <strong><a href="https://github.com/EgeGurkan/MapSpy">MapSpy</a></strong><br/>
-      Short description for MapSpy.<br/><br/>
+      Map information and navigation.<br/><br/>
       <code>HTML</code>
     </td>
     <td valign="top" width="420">
       <img src="./Frozen.svg" width="400" height="22" /><br/><br/>
       <strong><a href="https://github.com/EgeGurkan/DisasterTracker">Disaster Tracker</a></strong><br/>
-      Mobile-friendly web app showing recent earthquakes in Türkiye and worldwide.<br/><br/>
+      Mobile-friendly web app showing recent disasters in Türkiye and worldwide.<br/><br/>
       <code>HTML</code>
     </td>
   </tr>
