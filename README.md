@@ -63,3 +63,13 @@ FROZEN (Mavi):
 ARCHIVED (Gri):
 <img src="https://img.shields.io/badge/ARCHIVED%20%E2%80%A2%20ARCHIVED%20%E2%80%A2%20ARCHIVED-8b949e?style=for-the-badge" width="400" height="22" /><br/><br/>
 -->
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EgeGurkan&theme=github-compact&custom_title=Ege%20G%C3%BCrkan" alt="Ege Gürkan Contributions" />
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EgeGurkan&theme=github_dark" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EgeGurkan&theme=github_dark" alt="Top Languages" />
+  </p>
+</div>
