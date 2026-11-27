@@ -74,7 +74,7 @@ I design spaces by profession and build software on the side purely for my own u
       <code>HTML</code>
     </td>
     <td valign="top" width="420">
-      <img src="./Archived.svg" width="400" height="22" /><br/><br/>
+      <img src="./Frozen.svg" width="400" height="22" /><br/><br/>
       <strong><a href="https://github.com/EgeGurkan/DisasterTracker">Disaster Tracker</a></strong><br/>
       Mobile-friendly web app showing recent earthquakes in Türkiye and worldwide.<br/><br/>
       <code>HTML</code>
