@@ -4,7 +4,6 @@
 
 Architect (M.Arch). Coding as a hobby, building personal tools for desktop and web.  
 I design spaces by profession and build software on the side purely for my own use and curiosity.  
-Questions or ideas? Open an issue [here](https://github.com/EgeGurkan/EgeGurkan/issues).
 
 </div>
 
