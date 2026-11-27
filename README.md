@@ -29,13 +29,13 @@ I design spaces by profession and build software on the side purely for my own u
       <img src="./Active.svg" width="400" height="22" /><br/><br/>
       <strong><a href="https://github.com/EgeGurkan/ByteAI">ByteAI</a></strong><br/>
       Short description for ByteAI.<br/><br/>
-      <code>Language</code>
+      <code>HTML</code>
     </td>
     <td valign="top" width="420">
       <img src="./Active.svg" width="400" height="22" /><br/><br/>
       <strong><a href="https://github.com/EgeGurkan/ByteOffice">ByteOffice</a></strong><br/>
       Short description for ByteOffice.<br/><br/>
-      <code>Language</code>
+      <code>HTML</code>
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ I design spaces by profession and build software on the side purely for my own u
       <img src="./Done.svg" width="400" height="22" /><br/><br/>
       <strong><a href="https://github.com/EgeGurkan/ByteGames">ByteGames</a></strong><br/>
       Short description for ByteGames.<br/><br/>
-      <code>Language</code>
+      <code>HTML</code>
     </td>
     <td valign="top" width="420">
       <img src="./Done.svg" width="400" height="22" /><br/><br/>
@@ -71,7 +71,7 @@ I design spaces by profession and build software on the side purely for my own u
       <img src="./Archived.svg" width="400" height="22" /><br/><br/>
       <strong><a href="https://github.com/EgeGurkan/MapSpy">MapSpy</a></strong><br/>
       Short description for MapSpy.<br/><br/>
-      <code>Language</code>
+      <code>HTML</code>
     </td>
     <td valign="top" width="420">
       <img src="./Archived.svg" width="400" height="22" /><br/><br/>
